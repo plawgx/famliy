@@ -4,7 +4,7 @@
 
 """
    Life's short, Python more.   
-   bug report to xiaogong.wgx@taobao.com.
+   bug report to guoxin_min@126.com.
 """
 
 import os
